@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://profgabrielramos-ai.github.io/</loc>
     <lastmod>2025-07-02T02:46:02-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://profgabrielramos-ai.github.io/posts/</loc>
     <lastmod>2025-07-02T02:45:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/abobrinha/</loc>
+    <loc>https://profgabrielramos-ai.github.io/posts/abobrinha/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://profgabrielramos-ai.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contato/</loc>
+    <loc>https://profgabrielramos-ai.github.io/contato/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/ferramentas-de-estudo/</loc>
+    <loc>https://profgabrielramos-ai.github.io/posts/ferramentas-de-estudo/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/inteligencia-artificial/</loc>
+    <loc>https://profgabrielramos-ai.github.io/posts/inteligencia-artificial/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://profgabrielramos-ai.github.io/tags/</loc>
   </url>
 </urlset>
