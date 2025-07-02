@@ -1,0 +1,23 @@
+baseURL = "https://example.org/"
+languageCode = "pt-br"
+title = "Meu Blog Incrível"
+theme = "PaperMod"
+
+[params]
+    defaultTheme = "auto" # dark, light
+    ShowShareButtons = true
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+    ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 20
