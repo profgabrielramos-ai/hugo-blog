@@ -1,23 +1,41 @@
-baseURL = "https://example.org/"
+baseURL = "https://profgabrielramos-ai.github.io/"
 languageCode = "pt-br"
-title = "Meu Blog Incrível"
+title = "SherlockRamos"
 theme = "PaperMod"
 
 [params]
+    custom_css = ["css/custom.css"]
     defaultTheme = "auto" # dark, light
     ShowShareButtons = true
     ShowReadingTime = true
     ShowPostNavLinks = true
     ShowCodeCopyButtons = true
 
+    [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/GatoMaconhado_"
+
+    [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/prof.gabrielramos/"
+
+    [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/profgabrielramos-ai"
+
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "sobre"
-    name = "Sobre"
-    url = "/sobre/"
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
     weight = 20
+  [[menu.main]]
+    identifier = "contato"
+    name = "Contato"
+    url = "/contato/"
+    weight = 30
