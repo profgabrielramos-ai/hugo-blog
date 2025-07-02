@@ -4,7 +4,6 @@ title = "SherlockRamos"
 theme = "PaperMod"
 
 [params]
-    custom_css = ["css/custom.css"]
     defaultTheme = "auto" # dark, light
     ShowShareButtons = true
     ShowReadingTime = true
