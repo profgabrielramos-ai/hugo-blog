@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "*",
+      "use": "@vercel/hugo",
+      "config": {
+        "hugoVersion": "0.125.4"
+      }
+    }
+  ]
+}
