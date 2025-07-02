@@ -6,8 +6,8 @@ Este manual fornece instruções básicas sobre como usar o Hugo para gerenciar 
 
 Aqui estão os comandos mais comuns que você usará:
 
--   **`hugo server`**: Inicia um servidor de desenvolvimento local. Isso permite que você visualize seu site em tempo real no seu navegador (geralmente em `http://localhost:1313/`). As alterações nos arquivos são refletidas automaticamente.
--   **`hugo`**: Constrói o site estático. Isso gera todos os arquivos HTML, CSS, JavaScript e outros ativos na pasta `public/`. Esses são os arquivos que você fará o deploy para o GitHub Pages.
+- **`hugo server`**: Inicia um servidor de desenvolvimento local. Isso permite que você visualize seu site em tempo real no seu navegador (geralmente em `http://localhost:1313/`). As alterações nos arquivos são refletidas automaticamente.
+- **`hugo`**: Constrói o site estático. Isso gera todos os arquivos HTML, CSS, JavaScript e outros ativos na pasta `public/`. Esses são os arquivos que você fará o deploy para o GitHub Pages.
 
 ## 2. Como Criar uma Nova Página (Post)
 
@@ -17,8 +17,8 @@ Para criar um novo post ou página, use o comando `hugo new`:
 hugo new content/posts/minha-nova-publicacao.md
 ```
 
--   Substitua `content/posts/minha-nova-publicacao.md` pelo caminho e nome de arquivo desejados. Para posts de blog, é comum colocá-los em `content/posts/`.
--   Este comando criará um novo arquivo Markdown com o "front matter" (metadados como título, data, rascunho) preenchido automaticamente, baseado no seu arquetipo (`archetypes/default.md`).
+- Substitua `content/posts/minha-nova-publicacao.md` pelo caminho e nome de arquivo desejados. Para posts de blog, é comum colocá-los em `content/posts/`.
+- Este comando criará um novo arquivo Markdown com o "front matter" (metadados como título, data, rascunho) preenchido automaticamente, baseado no seu arquetipo (`archetypes/default.md`).
 
 Exemplo de um novo post:
 
